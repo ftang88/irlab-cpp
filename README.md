@@ -24,6 +24,8 @@ Current research activities leverage the Spot robot for a variety of autonomous 
 - Integrating Large Language Models (LLMs) for advanced robot control
 - Package delivery and logistics
 - Trash picking and environment cleanup
+- Construction
+- Medical assistant 
 - Playing catch (object manipulation and tracking)
 - Surveillance and patrolling
 - Culinary robot
