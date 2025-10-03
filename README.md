@@ -20,7 +20,7 @@ The Intelligent Robotics Lab (IRLab) at Cal Poly Pomona is dedicated to advancin
 
 ### Boston Dynamics Spot Robot Platform
 Current research activities leverage the Spot robot for a variety of autonomous and interactive tasks, including:
-- Autonomous Tic-Tac-Toe gameplay
+- [Autonomous Tic-Tac-Toe gameplay](https://ftang88.github.io/irlab-tictactoe/)
 - Integrating Large Language Models (LLMs) for advanced robot control
 - Package delivery and logistics
 - Trash picking and environment cleanup
